@@ -1,0 +1,20 @@
+body{
+	background: #3A1C71;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #BC8048, #9F2B3B, #48374B, #467E6C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #BC8048, #9F2B3B, #48374B, #467E6C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	color: #F92537;
+	font-family: Times new Romans;
+}
+img{
+	width: 150px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.container{
+	background-color: #FFD36B;
+	margin-top: 20;
+	margin-bottom: 20;
+	padding: 30;
+	border-radius: 20px;
+}
